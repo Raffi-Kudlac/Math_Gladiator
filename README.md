@@ -5,4 +5,6 @@ This was created for an educational game development class. The app was never pu
 It was worked on by me and Bryce Patterson who also has this app in his own repository at
 https://github.com/BrycePaterson/MathGame
 
+the apk file is for android devices
+
 Gameplay: Kids battle in the gladiator arena with math questions. As they progress the questions get harder. 
